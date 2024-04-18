@@ -2,7 +2,7 @@ public class Testclass{
 
   public static void main (String[] args){
 	  //Das ist ein Kommentar
-      System.out.println("Hella IMA3!");
+      System.out.println("Hallo IMA3!");
   }
 
 }
